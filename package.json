@@ -1,0 +1,25 @@
+{
+  "name": "apple_ceo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zznash24/apple_ceo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zznash24/apple_ceo/issues"
+  },
+  "homepage": "https://github.com/zznash24/apple_ceo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-es6-template-engine": "^2.2.3",
+    "nodemon": "^2.0.15"
+  }
+}
